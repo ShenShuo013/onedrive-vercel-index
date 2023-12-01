@@ -46,6 +46,11 @@ module.exports = {
                     '/Netflav/AV',
                     '/Netflav/LI'
                    ],
+  "protectedRoutes": [
+  "/Netflav/AN",
+   "/Netflav/AV",
+    "/Netflav/LI",
+  ],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
   email: 'mailto:spencer.wushangbo@gmail.com',
